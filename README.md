@@ -1,6 +1,6 @@
 # Association-Rules
 
-What are Association Rules? --> It is a method used to reveal product relationships from user purchases. It provides the opportunity to see the unity of products purchased according to a threshold value to be determined.
+What are Association Rules? --> Method used to reveal product relationships from user purchases. It provides the opportunity to see the unity of products purchased according to a threshold value to be determined.
 
 
 It is a rule-based machine learning technique used to find patterns (relationships, structures) in data. Also known as __Market Basket Analysis__.
@@ -36,6 +36,6 @@ __Confidence__: Probability of selling product Y when product X is purchased
 
 - Confidence (X, Y) = Freq(X, Y) / Freq(X)
 
-__Lift__: The sales of the first product increases the sales of teh second product tea by 'Lift' times.
+__Lift__: The sales of the first product increases the sales of the second product by 'Lift' times.
 
 - Lift = Support (X, Y) / ( Support(X) * Support(Y) )
