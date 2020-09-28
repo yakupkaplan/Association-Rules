@@ -39,3 +39,11 @@ __Confidence__: Probability of selling product Y when product X is purchased
 __Lift__: The sales of the first product increases the sales of the second product by 'Lift' times.
 
 - Lift = Support (X, Y) / ( Support(X) * Support(Y) )
+
+By examining all purchases of all customers, the association frequencies of the products in the baskets are checked. Marketing strategies are developed according to these frequencies.
+They provide the opportunity to see the unity of products purchased according to a threshold value to be determined.
+
+Association rules can be applied in many braches. 
+- Shelf layout planning in supermarkets
+- Recommender systems
+- Market Basket Analysis
